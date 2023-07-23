@@ -1,4 +1,4 @@
-function locate()
+function csepanyilevente@gmail.com locate()
 {
   if(navigator.geolocation)
   {
